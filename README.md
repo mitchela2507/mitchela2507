@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Ashley! 👋
 
 <!--
 **mitchela2507/mitchela2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Name
+I'm Ashley Mitchell. I'm a Computer Programming major at FTCC.
+## About Me
+When I'm not coding I am:
+- At home reading a book
+- At the beach
+- With my family
+## Classes I'm taking
+- CSC 134 C++ Programming
+- CSC 151 JAVA Programming
+- CTS 285 Systems Analysis & Design
 -->
