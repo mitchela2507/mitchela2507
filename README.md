@@ -6,11 +6,13 @@
 Here are some ideas to get you started:
 # Name
 I'm Ashley Mitchell. I'm a Computer Programming major at FTCC.
+
 ## About Me
 When I'm not coding I am:
 - At home reading a book
 - At the beach
 - With my family
+
 ## Classes I'm taking
 - CSC 134 C++ Programming
 - CSC 151 JAVA Programming
