@@ -2,9 +2,10 @@
 
 <!--
 **mitchela2507/mitchela2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 Here are some ideas to get you started:
+-->
 # Major
 I'm a Computer Programming major at FTCC.
 
