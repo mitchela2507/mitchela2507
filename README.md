@@ -1,6 +1,6 @@
 ## Hi there, I'm Ashley! 👋
 
-<!--
+
 **mitchela2507/mitchela2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +17,4 @@ When I'm not coding I am:
 - CSC 134 C++ Programming
 - CSC 151 JAVA Programming
 - CTS 285 Systems Analysis & Design
--->
+
